@@ -1,0 +1,10 @@
+C:\Users\redpeak3\Desktop\AngularTemplate.router\WebAPIController\bin\Debug\WebAPIController.dll
+C:\Users\redpeak3\Desktop\AngularTemplate.router\WebAPIController\bin\Debug\WebAPIController.pdb
+C:\Users\redpeak3\Desktop\AngularTemplate.router\WebAPIController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\redpeak3\Desktop\AngularTemplate.router\WebAPIController\obj\Debug\WebAPIController.dll
+C:\Users\redpeak3\Desktop\AngularTemplate.router\WebAPIController\obj\Debug\WebAPIController.pdb
+C:\Users\redpeak3\Desktop\AngularRouting\WebAPIController\bin\Debug\WebAPIController.dll
+C:\Users\redpeak3\Desktop\AngularRouting\WebAPIController\bin\Debug\WebAPIController.pdb
+C:\Users\redpeak3\Desktop\AngularRouting\WebAPIController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\redpeak3\Desktop\AngularRouting\WebAPIController\obj\Debug\WebAPIController.dll
+C:\Users\redpeak3\Desktop\AngularRouting\WebAPIController\obj\Debug\WebAPIController.pdb
